@@ -1,0 +1,15 @@
+{
+  "updated": "Feb 2026",
+  "spotlight": [
+    {
+      "name": "Creator Name",
+      "tagline": "Short line about them",
+      "price": "$25 spotlight",
+      "ctaUrl": "https://verityadnetwork.com",
+      "ctaText": "Get Featured",
+      "secondaryUrl": "mailto:admin@verityadnetwork.com",
+      "secondaryText": "Email Us",
+      "notes": "Anything extra"
+    }
+  ]
+}
